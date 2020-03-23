@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3dcdcf1e-e038-4773-993c-f954f69a6aa2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fibonacci exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise_113.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fizz_buzz_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise_111.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_111.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercise_112.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise_112.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,8 +38,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.exercise_112">
-    <configuration name="exercise_108" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Fibonacci exercise">
+    <configuration name="Fibonacci exercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_exercises_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -46,7 +51,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise_108.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fibonacci exercise.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -55,7 +60,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercise_109" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="New_exercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_exercises_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,49 +72,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise_109.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exercise_110" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_exercises_2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise_110.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exercise_111" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_exercises_2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise_111.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/New_exercise.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,13 +102,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="exercise_113" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_exercises_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise_113.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fizz_buzz_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_exercises_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fizz_buzz_functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Fibonacci exercise" />
         <item itemvalue="Python.exercise_112" />
-        <item itemvalue="Python.exercise_111" />
-        <item itemvalue="Python.exercise_110" />
-        <item itemvalue="Python.exercise_109" />
-        <item itemvalue="Python.exercise_108" />
+        <item itemvalue="Python.New_exercise" />
+        <item itemvalue="Python.fizz_buzz_functions" />
+        <item itemvalue="Python.exercise_113" />
       </list>
     </recent_temporary>
   </component>
@@ -163,30 +168,46 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1379" height="199" key="GridCell.Tab.0.bottom" timestamp="1583398788915">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state width="1379" height="199" key="GridCell.Tab.0.bottom" timestamp="1584374094820">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1419" height="199" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583397607464" />
-    <state width="1379" height="199" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1583340638726" />
-    <state width="1379" height="199" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1583398788915" />
-    <state width="1379" height="199" key="GridCell.Tab.0.center" timestamp="1583398788912">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state width="1379" height="199" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1583491636534" />
+    <state width="1379" height="199" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1583487324700" />
+    <state width="1379" height="199" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1583424754116" />
+    <state width="1379" height="199" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1583666883487" />
+    <state width="1379" height="199" key="GridCell.Tab.0.bottom/1440.-68.1920.1057/0.23.1440.806@0.23.1440.806" timestamp="1584374094820" />
+    <state width="1379" height="199" key="GridCell.Tab.0.bottom/1440.-68.1920.1057/0.23.1440.827@0.23.1440.827" timestamp="1583914186987" />
+    <state width="1379" height="199" key="GridCell.Tab.0.center" timestamp="1584374094818">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1419" height="199" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583397607462" />
-    <state width="1379" height="199" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1583340638724" />
-    <state width="1379" height="199" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1583398788912" />
-    <state width="1379" height="199" key="GridCell.Tab.0.left" timestamp="1583398788911">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state width="1379" height="199" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1583491636525" />
+    <state width="1379" height="199" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1583487324699" />
+    <state width="1379" height="199" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1583424754115" />
+    <state width="1379" height="199" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1583666883485" />
+    <state width="1379" height="199" key="GridCell.Tab.0.center/1440.-68.1920.1057/0.23.1440.806@0.23.1440.806" timestamp="1584374094818" />
+    <state width="1379" height="199" key="GridCell.Tab.0.center/1440.-68.1920.1057/0.23.1440.827@0.23.1440.827" timestamp="1583914186975" />
+    <state width="1379" height="199" key="GridCell.Tab.0.left" timestamp="1584374094817">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1419" height="199" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583397607460" />
-    <state width="1379" height="199" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1583340638724" />
-    <state width="1379" height="199" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1583398788911" />
-    <state width="1379" height="199" key="GridCell.Tab.0.right" timestamp="1583398788912">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state width="1379" height="199" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1583491636524" />
+    <state width="1379" height="199" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1583487324699" />
+    <state width="1379" height="199" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1583424754113" />
+    <state width="1379" height="199" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1583666883484" />
+    <state width="1379" height="199" key="GridCell.Tab.0.left/1440.-68.1920.1057/0.23.1440.806@0.23.1440.806" timestamp="1584374094817" />
+    <state width="1379" height="199" key="GridCell.Tab.0.left/1440.-68.1920.1057/0.23.1440.827@0.23.1440.827" timestamp="1583914186970" />
+    <state width="1379" height="199" key="GridCell.Tab.0.right" timestamp="1584374094819">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state width="1419" height="199" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583397607463" />
-    <state width="1379" height="199" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1583340638725" />
-    <state width="1379" height="199" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1583398788912" />
+    <state width="1379" height="199" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1583491636527" />
+    <state width="1379" height="199" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1583487324700" />
+    <state width="1379" height="199" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1583424754115" />
+    <state width="1379" height="199" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1583666883486" />
+    <state width="1379" height="199" key="GridCell.Tab.0.right/1440.-68.1920.1057/0.23.1440.806@0.23.1440.806" timestamp="1584374094819" />
+    <state width="1379" height="199" key="GridCell.Tab.0.right/1440.-68.1920.1057/0.23.1440.827@0.23.1440.827" timestamp="1583914186986" />
     <state x="371" y="168" width="670" height="676" key="search.everywhere.popup" timestamp="1583339713714">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
